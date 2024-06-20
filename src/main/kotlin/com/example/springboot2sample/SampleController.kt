@@ -8,6 +8,6 @@ class SampleController {
 
     @RequestMapping("/home")
     fun home(): String {
-        return "Hello Spring Boot!!"
+        return "Hello Spring Boot 2!!"
     }
 }
